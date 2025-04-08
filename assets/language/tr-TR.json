@@ -1,0 +1,47 @@
+
+{
+    "login_page": {
+        "login_txt":"Giriş",
+        "email_txt":"E-posta",
+        "aggree_kvkk":"Giriş yapmadan önce KVKK ve Gizlilik Politikasını kabul etmelisiniz.",
+        "kvkk":"KVKK ve Gizlilik Politikası"
+    },
+     "splash_page": {
+        "connecttion_error":"Bağlantı hatası, tekrar deneniyor...",
+        "location_error":"Konum hizmeti devre dışı!",
+        "location_permission_error":"Konum izni reddedildi!",
+        "location_permission_error_2":"Konum izinleri kalıcı olarak reddedildi, izin isteyemiyoruz."
+    },
+    "settings_page": {
+        "settings_txt":"Ayarlar",
+        "dark_mode_txt":"Karanlık Mod",
+        "delete_account_txt":"Hesabı Sil"
+    },
+    "read_nimbus_page": {
+        "read_nimbus_txt":"Nimbus'u Oku",
+        "nimbus_title":"Nimbus Başlığı",
+        "nimbus_content":"Nimbus İçeriği",
+        "nimbus_date":"Nimbus Tarihi",
+        "nimbus_added":"Nimbus Eklendi"
+    },
+    "homepage": {
+        "read_daily_nimbus":"Günlük Nimbus'u Oku",
+        "total_nimbus":"Toplam Nimbus"
+    },
+    "add_nimbus_page": {
+        "enter_nimbus_title":"Nimbus Başlığını Girin",
+        "enter_nimbus_content":"Nimbus İçeriğini Girin",
+        "title":"Başlık",
+        "content":"İçerik"
+    },
+    "error_txt": {
+        "cannot_empty":"Boş olamaz",
+        "user_not_logged_in":"Kullanıcı giriş yapmadı",
+        "already_add_nimbus":"Bugün zaten bir nimbus eklediniz",
+        "user_not_found":"Kullanıcı bulunamadı",
+        "already_read_nimbus":"Bugün zaten bir nimbus okudunuz",
+        "nimbus_not_found":"Nimbus bulunamadı",
+        "account_deleted":"Hesap silindi"
+    }
+
+}

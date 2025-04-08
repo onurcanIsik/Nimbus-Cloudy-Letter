@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "745026219313",
+    "project_id": "nimbuus",
+    "storage_bucket": "nimbuus.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745026219313:android:bc0fb8e6dab98cac9a5410",
+        "android_client_info": {
+          "package_name": "com.nimbuus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBqyNUv5IEcSIEP_GK70bd46bAx6a7FyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

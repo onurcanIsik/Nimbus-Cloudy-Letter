@@ -1,0 +1,46 @@
+
+{
+    "login_page": {
+        "login_txt":"Login",
+        "email_txt":"E-mail",
+        "aggree_kvkk":"You must accept the KVKK and Privacy Policy before logging in.",
+        "kvkk":"KVKK and Privacy Policy"
+    },
+    "splash_page": {
+        "connecttion_error":"Connection error, trying again...",
+        "location_error":"Location service is disabled!",
+        "location_permission_error":"Location permission denied!",
+        "location_permission_error_2":"Location permissions are permanently denied, we cannot request permission."
+    },
+    "settings_page": {
+        "settings_txt":"Settings",
+        "dark_mode_txt":"Dark Mode",
+        "delete_account_txt":"Delete Account"
+    },
+    "read_nimbus_page": {
+        "read_nimbus_txt":"Read Nimbus",
+        "nimbus_title":"Nimbus Title",
+        "nimbus_content":"Nimbus Content",
+        "nimbus_date":"Nimbus Date",
+        "nimbus_added":"Nimbus Added"
+    },
+    "homepage": {
+        "read_daily_nimbus":"Read Daily Nimbus",
+        "total_nimbus":"Total Nimbus"
+    },
+    "add_nimbus_page": {
+        "enter_nimbus_title":"Enter Nimbus Title",
+        "enter_nimbus_content":"Enter Nimbus Content",
+        "title":"Title",
+        "content":"Content"
+    },
+    "error_txt": {
+        "cannot_empty":"Cannot be empty",
+        "user_not_logged_in":"User not logged in",
+        "already_add_nimbus":"You have already added a nimbus today",
+        "user_not_found":"User not found",
+        "already_read_nimbus":"You have already read a nimbus today",
+        "nimbus_not_found":"Nimbus not found",
+        "account_deleted":"Account deleted"
+    }
+}
